@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# kit files that must not be published
+PROBLEM_STATEMENT.docx
+sample_data/
+sample_seed.py
+seed_test_data.py
+scratch_test.py
